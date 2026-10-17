@@ -1,18 +1,10 @@
 {
-  "mock": {
-    "versionCode": 19,
-    "versionName": "1.6.2",
-    "url": "https://files.catbox.moe/9537k7.apk",
-    "sha256": "a255f9a16c316bbe7c8e5bdb06abde4e367dc6318adb35adadf03c34f6bb05da",
-    "sizeBytes": 116431869,
-    "releaseNotes": "v1.6.2: notification-channel creation hardened (try-catch) in SafetyManager and VistaService \u2014 startup crash fix."
-  },
   "dat": {
-    "versionCode": 19,
-    "versionName": "1.6.2",
-    "url": "https://gofile.io/d/ms70vpgU",
-    "sha256": "2a3cefb6777d198cc20c4e756b17c66ad06b6d1564508a7ae899f68a53ad569e",
+    "versionCode": 20,
+    "versionName": "1.6.3",
+    "url": "https://gofile.io/d/sIfa5kgz",
+    "sha256": "31d8dcfe77075809cb6bdf108f6cc90a9b6634b33b348063b455f58221fc4253",
     "sizeBytes": 125827193,
-    "releaseNotes": "v1.6.2: notification-channel creation hardened (try-catch) in SafetyManager and VistaService \u2014 startup crash fix."
+    "releaseNotes": "v1.6.3: new Glasses connect card on the home screen \u2014 scan for your Meta Adventurer glasses, tap Connect on a found device, and see live link status with battery. No more missing Connect button."
   }
 }
