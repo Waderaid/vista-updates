@@ -1,10 +1,10 @@
 {
-    "dat": {
-        "versionCode": 24,
-        "versionName": "1.6.7",
-        "url": "https://gofile.io/d/sd0WduIF",
-        "sha256": "ad36c14c555aaedab829af7a6c18a3be36b9162026d42beb9840f68f69e79569",
-        "sizeBytes": 125827193,
-        "releaseNotes": "v1.6.7: adds the missing Meta AI app registration step \u2014 tap Register with Meta AI to authorize VISTA, then scan finds your glasses."
-    }
+ "dat": {
+  "versionCode": 25,
+  "versionName": "1.6.8",
+  "url": "https://gofile.io/d/LDEcqXEu",
+  "sha256": "0195931801a6bbe3ca67a5e20bed4945c3d322917e457fe086ee8e2047ea6e8e",
+  "sizeBytes": 125827193,
+  "releaseNotes": "v1.6.8: fixes the Registration unavailable state \u2014 VISTA now asks for the Bluetooth permission the Meta SDK needs to detect your glasses."
+ }
 }
