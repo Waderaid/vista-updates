@@ -1,1 +1,10 @@
-{"dat":{"releaseNotes":"v1.6.4: if the glasses driver fails to start, the home screen now shows a red diagnostic card with the exact error instead of an empty space — screenshot it and send it to Wade's assistant.","sha256":"14dc6999be5bbc7fbbd7092e2ca50c1e1bc3a2fd5f164be1a3eb6b1791a785de","sizeBytes":125827193,"url":"https://gofile.io/d/m1bwsmAz","versionCode":21,"versionName":"1.6.4"}}
+{
+  "dat": {
+    "releaseNotes": "v1.6.4: if the glasses driver fails to start, the home screen now shows a red diagnostic card with the exact error instead of an empty space \u2014 screenshot it and send it to Wade's assistant.",
+    "sha256": "14dc6999be5bbc7fbbd7092e2ca50c1e1bc3a2fd5f164be1a3eb6b1791a785de",
+    "sizeBytes": 125827193,
+    "url": "https://gofile.io/d/2L6jLbqh",
+    "versionCode": 21,
+    "versionName": "1.6.4"
+  }
+}
