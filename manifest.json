@@ -1,10 +1,10 @@
 {
- "dat": {
-  "versionCode": 25,
-  "versionName": "1.6.8",
-  "url": "https://gofile.io/d/LDEcqXEu",
-  "sha256": "0195931801a6bbe3ca67a5e20bed4945c3d322917e457fe086ee8e2047ea6e8e",
-  "sizeBytes": 125827193,
-  "releaseNotes": "v1.6.8: fixes the Registration unavailable state \u2014 VISTA now asks for the Bluetooth permission the Meta SDK needs to detect your glasses."
- }
+    "dat": {
+        "versionCode": 26,
+        "versionName": "1.6.9",
+        "url": "https://gofile.io/d/6S7msZ8g",
+        "sha256": "1c125efc94c071f1a88de9a333e874845604ba2f1ceb018b9e4100a61d66f461",
+        "sizeBytes": 125843577,
+        "releaseNotes": "v1.6.9: Connection parity update \u2014 DAT 1.0.1, registers the app ID with Meta's SDK, and requests camera/mic through the Meta AI permission sheet."
+    }
 }
