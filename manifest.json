@@ -1,10 +1,1 @@
-{
-  "dat": {
-    "versionCode": 20,
-    "versionName": "1.6.3",
-    "url": "https://gofile.io/d/sIfa5kgz",
-    "sha256": "31d8dcfe77075809cb6bdf108f6cc90a9b6634b33b348063b455f58221fc4253",
-    "sizeBytes": 125827193,
-    "releaseNotes": "v1.6.3: new Glasses connect card on the home screen \u2014 scan for your Meta Adventurer glasses, tap Connect on a found device, and see live link status with battery. No more missing Connect button."
-  }
-}
+{"dat":{"releaseNotes":"v1.6.4: if the glasses driver fails to start, the home screen now shows a red diagnostic card with the exact error instead of an empty space — screenshot it and send it to Wade's assistant.","sha256":"14dc6999be5bbc7fbbd7092e2ca50c1e1bc3a2fd5f164be1a3eb6b1791a785de","sizeBytes":125827193,"url":"https://gofile.io/d/m1bwsmAz","versionCode":21,"versionName":"1.6.4"}}
