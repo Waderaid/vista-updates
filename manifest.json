@@ -1,10 +1,10 @@
 {
   "dat": {
-    "releaseNotes": "v1.6.4: if the glasses driver fails to start, the home screen now shows a red diagnostic card with the exact error instead of an empty space \u2014 screenshot it and send it to Wade's assistant.",
-    "sha256": "14dc6999be5bbc7fbbd7092e2ca50c1e1bc3a2fd5f164be1a3eb6b1791a785de",
+    "releaseNotes": "Fixes the 'Glasses driver failed to start' crash \u2014 stale coroutines library removed from the build. The Glasses connect card should now appear on the home screen.",
+    "sha256": "74e3d276d4d8b4cfcbd93ec9eaf0b51f8d8ddc27f85907aa2c22ffe60960eaff",
     "sizeBytes": 125827193,
-    "url": "https://gofile.io/d/2L6jLbqh",
-    "versionCode": 21,
-    "versionName": "1.6.4"
+    "url": "https://gofile.io/d/hXaTriNO",
+    "versionCode": 22,
+    "versionName": "1.6.5"
   }
 }
