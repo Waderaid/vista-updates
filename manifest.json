@@ -1,10 +1,10 @@
 {
-    "dat": {
-        "versionCode": 26,
-        "versionName": "1.6.9",
-        "url": "https://gofile.io/d/6S7msZ8g",
-        "sha256": "1c125efc94c071f1a88de9a333e874845604ba2f1ceb018b9e4100a61d66f461",
-        "sizeBytes": 125843577,
-        "releaseNotes": "v1.6.9: Connection parity update \u2014 DAT 1.0.1, registers the app ID with Meta's SDK, and requests camera/mic through the Meta AI permission sheet."
-    }
+ "dat": {
+  "versionCode": 27,
+  "versionName": "1.6.10",
+  "url": "https://gofile.io/d/8tdyzAZj",
+  "sha256": "40f76b545ef66fe52bdcab67705f3d2a016c4594f56756c97704e413c954e71d",
+  "sizeBytes": 125843577,
+  "releaseNotes": "v1.6.10: Restructures SDK startup to match the working reference app \u2014 the SDK now initializes only after Bluetooth permission is granted, plus on-card diagnostics."
+ }
 }
