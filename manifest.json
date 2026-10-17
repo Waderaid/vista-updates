@@ -1,10 +1,10 @@
 {
   "dat": {
-    "releaseNotes": "Fixes the 'Glasses driver failed to start' crash \u2014 stale coroutines library removed from the build. The Glasses connect card should now appear on the home screen.",
-    "sha256": "74e3d276d4d8b4cfcbd93ec9eaf0b51f8d8ddc27f85907aa2c22ffe60960eaff",
+    "releaseNotes": "v1.6.6: fixes the glasses driver crash at its root \u2014 Meta's SDK referenced a non-existent runBlockingK method; patched to the real runBlocking. The Connect card should now appear. Also adds the version number to the app header.",
+    "sha256": "4f913c4355305a31012c666b43bbd71524e578b8b686a69c975128f180ef105c",
     "sizeBytes": 125827193,
-    "url": "https://gofile.io/d/hXaTriNO",
-    "versionCode": 22,
-    "versionName": "1.6.5"
+    "url": "https://gofile.io/d/pGrB0uNN",
+    "versionCode": 23,
+    "versionName": "1.6.6"
   }
 }
