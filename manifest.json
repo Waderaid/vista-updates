@@ -1,10 +1,10 @@
 {
-  "dat": {
-    "releaseNotes": "v1.6.6: fixes the glasses driver crash at its root \u2014 Meta's SDK referenced a non-existent runBlockingK method; patched to the real runBlocking. The Connect card should now appear. Also adds the version number to the app header.",
-    "sha256": "4f913c4355305a31012c666b43bbd71524e578b8b686a69c975128f180ef105c",
-    "sizeBytes": 125827193,
-    "url": "https://gofile.io/d/pGrB0uNN",
-    "versionCode": 23,
-    "versionName": "1.6.6"
-  }
+    "dat": {
+        "versionCode": 24,
+        "versionName": "1.6.7",
+        "url": "https://gofile.io/d/sd0WduIF",
+        "sha256": "ad36c14c555aaedab829af7a6c18a3be36b9162026d42beb9840f68f69e79569",
+        "sizeBytes": 125827193,
+        "releaseNotes": "v1.6.7: adds the missing Meta AI app registration step \u2014 tap Register with Meta AI to authorize VISTA, then scan finds your glasses."
+    }
 }
